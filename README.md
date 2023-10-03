@@ -21,7 +21,7 @@ Open your Chrome browser to confirm that the selected profiles are removed.
 ## `Installation`
 To use this app, you'll need to have Node.js and React installed on your computer.
 
-Clone this repository: git clone https://github.com/Turtle-0201/Multi-chrome-profiles.git
+Clone this repository: git clone 
 Navigate to the project directory: cd Multi-chrome-profiles/resource
 Install dependencies: npm install
 Start the app: npm start
